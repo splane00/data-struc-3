@@ -12,7 +12,7 @@ Features
 - Decodes binary strings back into the original text.
 - Saves Huffman tree, Huffman codes, and encoded/decoded outputs to files.
 
-File Structure
+File Structure  
 main.py
 - Reads input file paths
 - Builds the Huffman tree
